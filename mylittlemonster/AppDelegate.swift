@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MY Little Monstar
+//  mylittlemonster
 //
 //  Created by Mostafijur Rahaman on 6/17/16.
 //  Copyright © 2016 Mostafijur Rahaman. All rights reserved.

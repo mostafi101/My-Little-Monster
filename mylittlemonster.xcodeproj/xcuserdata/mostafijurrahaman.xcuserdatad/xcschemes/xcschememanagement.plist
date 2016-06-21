@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MY Little Monstar.xcscheme</key>
+		<key>mylittlemonster.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>40B46B6A1D14FEB700A827C8</key>
+		<key>D6FAC6CE1B747754001A4346</key>
 		<dict>
 			<key>primary</key>
 			<true/>
